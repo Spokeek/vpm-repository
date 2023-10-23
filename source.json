@@ -23,5 +23,9 @@
         "Thryrallo/VRC-Avatar-Performance-Tools"
     ],
     "packages":[
+        {
+            "id":"net.fushizen.modular-avatar",
+            "releases":[]
+        }
     ]
 }
