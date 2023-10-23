@@ -21,11 +21,5 @@
         "anatawa12/ContinuousAvatarUploader",
         "rurre/PumkinsAvatarTools",
         "Thryrallo/VRC-Avatar-Performance-Tools"
-    ],
-    "packages":[
-        {
-            "id":"net.fushizen.modular-avatar",
-            "releases":[]
-        }
     ]
 }
