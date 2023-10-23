@@ -1,5 +1,5 @@
 {
-    "name":"Spokeek VRChat VCC Packages",
+    "name":"Spokeek VRChat VPM Packages",
     "id":"fr.spokeek.vcc-packages",
     "url":"https://vrchat-community.github.io/template-package-listing/index.json",
     "author":{
@@ -7,7 +7,7 @@
         "name":"Spokeek",
         "url":"https://shelter.moe/@spokeek"
     },
-    "description":"Spokeek VRChat VCC Packages",
+    "description":"Packages I use frequently or that i worked on",
     "infoLink":{
         "url":"https://github.com/Spokeek/vcc-repository",
         "text":"View on GitHub"
@@ -15,7 +15,12 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "Spokeek/GoGoLoco-Modular-Avatar",
-        "Spokeek/goloco"
+        "Spokeek/goloco",
+        "lilxyzw/lilToon",
+        "bdunderscore/modular-avatar",
+        "anatawa12/ContinuousAvatarUploader",
+        "rurre/PumkinsAvatarTools",
+        "Thryrallo/VRC-Avatar-Performance-Tools"
     ],
     "packages":[
     ]
