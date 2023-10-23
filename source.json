@@ -19,9 +19,7 @@
         "lilxyzw/lilToon",
         "anatawa12/ContinuousAvatarUploader",
         "rurre/PumkinsAvatarTools",
-        "Thryrallo/VRC-Avatar-Performance-Tools"
-    ],
-    "vpmRepos":[
-        "https://vpm.nadena.dev/vpm.json"
+        "Thryrallo/VRC-Avatar-Performance-Tools",
+        "bdunderscore/modular-avatar"
     ]
 }
