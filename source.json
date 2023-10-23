@@ -21,5 +21,8 @@
         "anatawa12/ContinuousAvatarUploader",
         "rurre/PumkinsAvatarTools",
         "Thryrallo/VRC-Avatar-Performance-Tools"
+    ],
+    "vpmRepos":[
+        "https://vpm.nadena.dev/vpm.json"
     ]
 }
