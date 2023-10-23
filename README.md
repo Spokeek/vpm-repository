@@ -12,6 +12,8 @@ Open it at <https://spokeek.github.io/vpm-repository/>
 
 - [Modular Avatar](https://modular-avatar.nadena.dev)
 
+- [Non-Destructive Modular Framework](https://github.com/bdunderscore/ndmf)
+
 - [Pumkins Avatar Tools](https://github.com/rurre/PumkinsAvatarTools)
 
 - [Thry's Avatar Performance Tools](https://github.com/Thryrallo/VRC-Avatar-Performance-Tools)

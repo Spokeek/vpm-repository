@@ -20,6 +20,7 @@
         "anatawa12/ContinuousAvatarUploader",
         "rurre/PumkinsAvatarTools",
         "Thryrallo/VRC-Avatar-Performance-Tools",
-        "bdunderscore/modular-avatar"
+        "bdunderscore/modular-avatar",
+        "bdunderscore/ndmf"
     ]
 }
