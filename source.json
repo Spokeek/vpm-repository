@@ -1,7 +1,7 @@
 {
-    "name":"Spokeek VRChat VPM Packages",
-    "id":"fr.spokeek.vcc-packages",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Spokeek VPM Packages",
+    "id":"fr.spokeek.vpm-packages",
+    "url":"https://spokeek.github.io/vpm-repository/index.json",
     "author":{
         "email":"spokeek@protonmail.com",
         "name":"Spokeek",
@@ -9,7 +9,7 @@
     },
     "description":"Packages I use frequently or that i worked on",
     "infoLink":{
-        "url":"https://github.com/Spokeek/vcc-repository",
+        "url":"https://github.com/Spokeek/vpm-repository",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
