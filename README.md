@@ -25,3 +25,5 @@ Open it at <https://spokeek.github.io/vpm-repository/>
 - [Gogoloco (Modular Avatar)](https://github.com/Spokeek/GoGoLoco-Modular-Avatar)
 
 - [GoGoloco (vpm edition - to be merge to Franada main repo)](https://github.com/Spokeek/goloco)
+
+- [Animation Mega Pack](https://github.com/Spokeek/animation-mega-pack)
