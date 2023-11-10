@@ -20,9 +20,7 @@
         "lilxyzw/lilToon",
         "anatawa12/ContinuousAvatarUploader",
         "rurre/PumkinsAvatarTools",
-        "Thryrallo/VRC-Avatar-Performance-Tools",
-        "bdunderscore/modular-avatar",
-        "bdunderscore/ndmf"
+        "Thryrallo/VRC-Avatar-Performance-Tools"
     ],
     "vpmPackages": {
         "nadena.dev.modular-avatar": {
