@@ -27,3 +27,13 @@ Open it at <https://spokeek.github.io/vpm-repository/>
 - [GoGoloco (vpm edition - to be merge to Franada main repo)](https://github.com/Spokeek/goloco)
 
 - [Animation Mega Pack](https://github.com/Spokeek/animation-mega-pack)
+
+## CI
+
+I originaly used the commnuity package listing builder https://github.com/vrchat-community/package-list-action
+
+This was missing a few features for deprecated package id, or to refer to other vpm repositories.
+
+Was before using my own version at https://github.com/Spokeek/package-list-action/tree/main to handle depreacted package ids.
+
+But now those features are waiting for aproval so i'm refering to @anatawa12 version at https://github.com/anatawa12/package-list-action/tree/pick-packages
