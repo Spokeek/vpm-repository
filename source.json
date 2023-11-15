@@ -25,6 +25,9 @@
     "vpmPackages": {
         "nadena.dev.modular-avatar": {
             "source": "https://vpm.nadena.dev/vpm.json"
+        },
+        "nadena.dev.ndmf": {
+            "source": "https://vpm.nadena.dev/vpm.json"
         }
     }
 }
